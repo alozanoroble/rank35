@@ -2,6 +2,8 @@
 
 **Dylan T. Costa and Álvaro Lozano-Robledo**
 
+The paper is available at [https://hexagonmath.org/2610.00280v1](https://hexagonmath.org/2610.00280v1).
+
 This repository contains the paper
 [`costa--lozano-robledo_rank35.pdf`](costa--lozano-robledo_rank35.pdf) (LaTeX source
 [`costa--lozano-robledo_rank35.tex`](costa--lozano-robledo_rank35.tex), bibliography
